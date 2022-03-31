@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vvm3L0, know as Bruno.
-- 👀 I’m interested in C# and Python.
-- 🌱 I’m currently learning C# and Python.
+- 👀 I’m interested in C# and React.
+- 🌱 I’m currently learning C# and React.
 - 💞️ I’m looking to collaborate on projects and listen.
 - 📫 How to reach me discord #1469 m3L0.
 
