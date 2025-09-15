@@ -1,5 +1,3 @@
-<img src="URL_DO_SEU_BANNER" alt="Banner do Perfil">
-
 # 👋 Olá! Eu sou o Bruno Melo
 
 <p>
