@@ -1,9 +1,9 @@
 <img src="URL_DO_SEU_BANNER" alt="Banner do Perfil">
 
-# 👋 Olá! Eu sou o [Seu Nome]
+# 👋 Olá! Eu sou o Bruno Melo
 
 <p>
-  Desenvolvedor de Software focado em criar soluções eficientes e escaláveis. Atualmente explorando o mundo da Inteligência Artificial com Python e PyTorch.
+  Desenvolvedor de Software focado em criar soluções eficientes e escaláveis. Atualmente explorando o mundo da Inteligência Artificial com Python, e também desenvolvimento Front-END com REACT e MOBILE com REACTNATIVE.
 </p>
 
 ## 🚀 Minhas Habilidades
